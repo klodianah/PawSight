@@ -42,5 +42,5 @@ This project was developed for academic purposes to demonstrate an end-to-end ML
 
 ---
 
-## 📂 Project Structure
+
 
